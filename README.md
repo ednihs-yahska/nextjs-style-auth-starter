@@ -8,6 +8,17 @@ typescript
 next-auth
 ```
 
+## Startup commands
+```
+yarn or npm install
+
+yarn dev or npm run dev
+```
+
+Project will run on port 9000.
+
+Port can be changed in the package.json dev commmand.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
