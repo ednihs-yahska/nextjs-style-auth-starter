@@ -1,5 +1,5 @@
 ## Extended from next-js blog project
-This is a extension to basic nextjs-blog project. You can read the basic info below. For instruction specific to this project, run the app and you will see some instructions on the home page.
+This is a extension to basic nextjs-blog project. You can read the basic info below. For instructions specific to this project, run the app and you will see instructions on the home page.
 ## Prerequisutes
 ```
 tailwind.css
