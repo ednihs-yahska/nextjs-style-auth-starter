@@ -7,7 +7,10 @@ styled-components
 typescript
 next-auth
 ```
-
+## Installation
+```
+npx create-next-app project_name --use-npm --example "https://github.com/ednihs-yahska/nextjs-style-auth-starter"
+```
 ## Startup commands
 ```
 yarn or npm install
