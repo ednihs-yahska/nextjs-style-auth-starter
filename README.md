@@ -7,8 +7,6 @@ styled-components
 typescript
 next-auth
 ```
-<<<<<<< HEAD
-=======
 ## Installation
 ```
 npx create-next-app project_name --use-npm --example "https://github.com/ednihs-yahska/nextjs-style-auth-starter"
@@ -23,7 +21,6 @@ yarn dev or npm run dev
 Project will run on port 9000.
 
 Port can be changed in the package.json dev commmand.
->>>>>>> 2d8ec33d25038c40495b936d431585baace4439f
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
